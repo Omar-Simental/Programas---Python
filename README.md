@@ -25,6 +25,7 @@ Omar Alejandro Simental Martinez
 - p14 - Numero de la suerte
 
 ## Actividad 02
+
 - p15 - verificar numero
 - p16 - verificar suma
 - p17 - convertir temperaturas
@@ -33,3 +34,10 @@ Omar Alejandro Simental Martinez
 - p20 - ley de newton
 - p21 - aceptar estudiante
 - p22 - angulos
+
+## Tarea 02
+- p23 - numeros consecutivos 
+- p24 - numero mayor 
+- p25 - dia de la semana
+- p27 - calculo de notas
+- p28 - aceptar estudiante v2
