@@ -41,3 +41,41 @@ Omar Alejandro Simental Martinez
 - p25 - dia de la semana
 - p27 - calculo de notas
 - p28 - aceptar estudiante v2
+
+## Actividad 03
+- p29 - numeros de 1 a 100
+- p30 - numeros de 100 a 1
+- p31 - numeros de 1 a 200 de 10 en 10
+- p32 - numeros de 1 a 200, hasta sumas 100 (break)
+- p33 - numero de 1 a 200
+- p34 - tabla de multiplicar
+- p35 - tabla de multiplicar v2
+- p36 - tabla de conversion a dolar
+
+## Tarea 03
+- p37 - numeros impares ascendente
+- p38 - numeros pares descendente
+- p39 - promedio y suma de numeros
+- p40 - suma hasta 200
+- p41 - listado de conversion de temperaturas
+- p42 - numero mayor
+
+## Actividad 04
+- p43 - numeros de 1 a 100 
+- p44 - numeros de 100 a 1 
+- p45 - arriba y abajo segun elija
+- p46 - tabla de multiplicar 
+- p47 - tabla de multiplicar v2
+- p48 - triangulo de asteriscos
+- p49 - cuadrado de asteriscos
+- p50 - suma de pares e impares
+- p51 - el factorial
+- p52 - suma de numeros  
+
+## Tarea 04
+- p53 - numeros de 10 en 10 hasta n
+- p54 - suma de todos los pares entre 1 y n
+- p55 - secuencia de n renglones
+- p56 - secuencia de n renglones v2
+- p57 - secuencia de n terminos armonicos 
+- p58 - secuencia de n terminos v2
