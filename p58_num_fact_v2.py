@@ -1,7 +1,7 @@
 # Secuencia de numeros armonicos
 
 
-n = int(input('Numero? '))      # Numero factorial
+n = int(input('Numero? '))
 
 f = 1
 a = 0
