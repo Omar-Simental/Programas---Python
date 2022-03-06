@@ -79,3 +79,10 @@ Omar Alejandro Simental Martinez
 - p56 - secuencia de n renglones v2
 - p57 - secuencia de n terminos armonicos 
 - p58 - secuencia de n terminos v2
+
+## Actividad 05
+- p59 - vocales consonantes
+- p60 - contar letras digitos simbolos
+- p61 - dividir en palabras y contar
+- p62 - procesar texto
+- p63 - formateo de datos
