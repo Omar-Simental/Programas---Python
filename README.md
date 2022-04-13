@@ -86,3 +86,83 @@ Omar Alejandro Simental Martinez
 - p61 - dividir en palabras y contar
 - p62 - procesar texto
 - p63 - formateo de datos
+
+## Tarea 05
+- p64 - vocales consonantes v2
+- p65 - contar letras digitos simbolos v2
+- p66 - juntor palabras
+- p67 - tabla conversiones
+
+## Actividad 06
+- p68 - acceder lista
+- p69 - cambiar lista
+- p70 - agregar lista
+- p71 - remover lista
+- p72 - iterar lista
+- p73 - comprension lista
+
+## Actividad 07
+- p74 - procesar calificaciones
+- p75 - procesar calificaciones v2
+- p76 - sumar dos listas de n numeros
+- p77 - dia de paga
+- p78 - nombres y edades
+- p79 - listas con aleatorios
+
+## Tarea 06
+- p80 - procesar notas de clase
+- p81 - lista multiplica
+- p82 - mes dias y nombre
+- p83 - listas aleatorios suma
+- p84 - cuidades
+- p85 - lista impares
+
+## Actividad 08
+- p86 - operaciones sobre conjuntos
+- p87 - operaciones entre conjuntos
+
+## Tarea 07
+- p88 - personas 
+- p89 - numeros
+
+## Actividad 09
+- p90 - estudiante
+- p91 - calificaciones
+- p92 - nombres y edades
+- p93 - procesar pizza
+- p94 - estudiantes datos
+
+## Tarea 08
+- p95 - dias semana 
+- p96 - numeros romanos
+- p97 - contar caracteres
+
+## Actividad 10
+- p98 - tabla de multiplicar
+- p99 - cuadro caracter
+- p100 - numero mayor
+- p101 - estacion del año
+- p102 - temperatura
+- p103 - suma digitos
+- p104 - factorial
+- p105 - calificacion con letra
+- p106 - suma numeros en un rango
+
+## Tarea 09
+- p107 - numero mayor
+- p108 - dia de la semana
+- p109 - medidas de longitud
+- p110 - suma pares o impares en un rango
+
+## Actividad 11
+- p111 - mayor y menor de una lista
+- p112 - promedio y mayores que el promedio
+- p113 - pares e impares
+- p114 - lista de aleatorios
+- p115 - procesa nombres
+- p116.5 - modulo fifa
+- p116 - procesar fifa
+- p117 - modulos integrados
+
+## Tarea 10
+- p118 - poblacion por año
