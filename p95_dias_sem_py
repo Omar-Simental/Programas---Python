@@ -1,0 +1,18 @@
+# Dias de la semana en numeros
+
+from tkinter.tix import DisplayStyle
+
+
+dias = {'Lunes':1, 'Martes':2, 'Miercoles':3, 'Jueves':4, 'Viernes':5}
+
+
+print(f'\ndiccionario nuevo : {dias}')
+
+# imprimir todo el diccionario elemento por elemento
+print('\nTodos los elementos del diccionario')
+for dl,dn in dias.items():
+    print(f'{dl:<12} - {dn:5}')
+
+d = int(input('Que dia quieres ? '))
+
+print ('El dia que elegiste es : {:dn}')
