@@ -166,3 +166,22 @@ Omar Alejandro Simental Martinez
 
 ## Tarea 10
 - p118 - poblacion por año
+
+## Actividad 12
+- p119 - series 1
+- p120 - series 2
+- p121 - series listas
+- p122 - series diccionarios
+- p123 - series archivos csv
+- p124 - seres atributos
+- p125 - series iterar
+- p126 - series acceder 1
+- p127 - series acceder 2
+- p128 - series estadisticas
+- p129 - series operaciones
+
+## Actividad 13
+- p130 - series vivienda
+
+## Tarea 11
+- p131 - poblacion por entidad
