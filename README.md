@@ -185,3 +185,6 @@ Omar Alejandro Simental Martinez
 
 ## Tarea 11
 - p131 - poblacion por entidad
+
+## Actividad 14
+- p132 - dataframe
