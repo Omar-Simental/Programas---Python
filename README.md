@@ -188,3 +188,9 @@ Omar Alejandro Simental Martinez
 
 ## Actividad 14
 - p132 - dataframe
+
+## Actividad 15
+- p133 - fifa
+
+## Tarea 11
+- p134 - fifav2
