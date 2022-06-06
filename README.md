@@ -192,5 +192,14 @@ Omar Alejandro Simental Martinez
 ## Actividad 15
 - p133 - fifa
 
-## Tarea 11
+## Tarea 12
 - p134 - fifav2
+
+## Actividad 16
+- p135 - matpotlibv1
+
+## Actividad 17
+- p135 - matpotlibv2
+
+## Tarea 13
+- p136 - matpotlibv3
